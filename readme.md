@@ -27,7 +27,7 @@
 自动化记录功能需要配合 [roco-helper（洛克助手）](https://github.com/h3110w0r1d-y/rocom-helper) 使用。
 
 1. 配置 `roco-helper`（洛克助手）。
-2. 打开设置并点击 `roco-app`。
+2. 打开设置并点击 `roco-helper`。
 
    ![打开 roco-app 设置](./public/roco-helper/01.png)
 
